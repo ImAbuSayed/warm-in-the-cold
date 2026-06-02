@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Warm In The Cold
+
+This log tracks the cryptographic history and versioning for the song **Warm In The Cold** (warm-in-the-cold).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T14:51:54.829413 | `v1` | `9686b59e10db45f206760027451e023b3369f8f08faecca7a6e60db5062e94fe` | `c198c8878251e88c31e76dd64e216341d6e044a0137cdeb50f4fded9e419f066` | `2026-06-02_warm-in-the-cold-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
