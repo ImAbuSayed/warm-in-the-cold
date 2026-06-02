@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/warm-in-the-cold/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Warm In The Cold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warm-in-the-cold/) |
+| **Get License** | [Commercial Licensing for Warm In The Cold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warm-in-the-cold/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Frost is gathering along the glass
+> But I just want to make this feeling last
+> Pull me closer in the fading light
+> You are all I need on a winter night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
